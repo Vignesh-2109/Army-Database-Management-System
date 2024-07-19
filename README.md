@@ -71,4 +71,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ---
 
-Developed with ❤️ by [Vignesh Maram]
+Developed with ❤️ by Vignesh Maram

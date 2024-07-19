@@ -3,7 +3,7 @@
 ![DBMS](https://img.shields.io/badge/DBMS-SQL-blue)
 ![SQL](https://img.shields.io/badge/SQL-MYSQL-brightgreen)
 ![Relational Algebra](https://img.shields.io/badge/Relational%20Algebra-Theory-orange)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## 📜 Overview
 
@@ -67,9 +67,7 @@
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
 ---
 

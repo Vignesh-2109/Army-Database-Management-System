@@ -28,7 +28,7 @@
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/military-database-management-system.git
+    git clone https://github.com/Vignesh-2109/Army-Database-Management-System.git
     cd military-database-management-system
     ```
 
